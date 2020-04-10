@@ -30,7 +30,7 @@ Create a new group
 ![Create new group](https://github.com/as4378/SocialMediaApp/blob/master/static/images/CreateGroup.PNG)
 
 Posts in a group
-![Posts in a group](https://github.com/as4378/SocialMediaApp/blob/master/static/images/PostHistory.PNG)
+![Posts in a group](https://github.com/as4378/SocialMediaApp/blob/master/static/images/PostsInGroup.PNG)
 
 Create a new post
 ![Create a new post](https://github.com/as4378/SocialMediaApp/blob/master/static/images/CreatePost.PNG)
