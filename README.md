@@ -34,3 +34,7 @@ Posts in a group
 
 Create a new post
 ![Create a new post](https://github.com/as4378/SocialMediaApp/blob/master/static/images/CreatePost.PNG)
+
+User's post history
+![MemberPostHistory](https://github.com/as4378/SocialMediaApp/blob/master/static/images/MemberPostHistory.PNG)
+
