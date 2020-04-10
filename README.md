@@ -45,3 +45,8 @@ Here are different sections of the website:
 
 ![MemberPostHistory](https://github.com/as4378/SocialMediaApp/blob/master/static/images/MemberPostHistory.PNG)
 
+### Logout
+
+![Logout](https://github.com/as4378/SocialMediaApp/blob/master/static/images/Logout.PNG)
+
+
