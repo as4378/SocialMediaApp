@@ -13,28 +13,35 @@ Key features:
 
 Here are different sections of the website:
 
-Home page
+### Home page
 
 ![Home Page](https://github.com/as4378/SocialMediaApp/blob/master/static/images/HomePage.PNG)
 
-Sign Up 
+### Sign Up 
+
 ![SignUp](https://github.com/as4378/SocialMediaApp/blob/master/static/images/SignUp.PNG)
 
-Login
+### Login
+
 ![Login](https://github.com/as4378/SocialMediaApp/blob/master/static/images/Login.PNG)
 
-Groups List
+### Groups List
+
 ![Groups List](https://github.com/as4378/SocialMediaApp/blob/master/static/images/Groups.PNG)
 
-Create a new group
+### Create a new group
+
 ![Create new group](https://github.com/as4378/SocialMediaApp/blob/master/static/images/CreateGroup.PNG)
 
-Posts in a group
+### Posts in a group
+
 ![Posts in a group](https://github.com/as4378/SocialMediaApp/blob/master/static/images/PostsInGroup.PNG)
 
-Create a new post
+### Create a new post
+
 ![Create a new post](https://github.com/as4378/SocialMediaApp/blob/master/static/images/CreatePost.PNG)
 
-User's post history
+### User's post history
+
 ![MemberPostHistory](https://github.com/as4378/SocialMediaApp/blob/master/static/images/MemberPostHistory.PNG)
 
